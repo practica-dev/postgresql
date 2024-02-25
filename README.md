@@ -32,3 +32,9 @@ $psql -d app -U app
 ```sql
 # \dt
 ```
+
+## describe la tabla
+
+```sql
+# \d+ tablename
+```
